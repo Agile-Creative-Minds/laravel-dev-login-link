@@ -1,5 +1,10 @@
 # Laravel Dev Login Link
 
+[![Latest Version](https://img.shields.io/packagist/v/agile-creative-minds/laravel-dev-login-link.svg?label=version)](https://packagist.org/packages/agile-creative-minds/laravel-dev-login-link)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/agile-creative-minds/laravel-dev-login-link.svg?label=downloads)](https://packagist.org/packages/agile-creative-minds/laravel-dev-login-link)
+[![CI](https://github.com/Agile-Creative-Minds/laravel-dev-login-link/actions/workflows/ci.yml/badge.svg)](https://github.com/Agile-Creative-Minds/laravel-dev-login-link/actions)
+[![License](https://img.shields.io/packagist/l/agile-creative-minds/laravel-dev-login-link.svg)](LICENSE)
+
 A dev-only Artisan command that generates one-time login links for Laravel.
 
 **Why this exists:** During local development, you often need to quickly log in as different users without resetting passwords or navigating login forms. This package provides a single command to generate a secure, short-lived login link — saving time and reducing friction in your dev workflow.
